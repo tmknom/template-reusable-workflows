@@ -6,6 +6,10 @@ Template repository for Reusable Workflows.
 
 Template repository for creating Reusable Workflows with GitHub Actions.
 
+## Related projects
+
+N/A
+
 ## Release notes
 
 See [GitHub Releases][releases].
